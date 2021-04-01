@@ -1,8 +1,8 @@
-##PPIs-XGBoost
+##PPISP-XGBoost
 
 Prediction of protein-protein interaction sites through eXtreme gradient boosting with kernel principal component analysis
 
-###PPIs-XGBoost uses the following dependencies:
+###PPISP-XGBoost uses the following dependencies:
 
  * Python 3.6
  * numpy
@@ -12,7 +12,7 @@ Prediction of protein-protein interaction sites through eXtreme gradient boostin
 
 ###Guiding principles: 
 
-**The dataset file contains three datasets, among which dset72_fasta, dset164_fasta, dset186_fasta
+**The dataset file contains five datasets, among which dset72_fasta, dset164_fasta, dset186_fasta, Dset_448_fasta, Dset_355_fasta.
 
 **Feature extraction：
  * PseAAC.py is the implementation of PseAAC.
